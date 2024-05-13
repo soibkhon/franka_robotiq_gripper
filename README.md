@@ -10,3 +10,5 @@ The base numbers were taken from the gripper manual and the measurements of cust
 Intertia matrix is taken from the manual
 
 The mount is 0.05m and it was added to Z axis of the Center of mass vector, also the distance between the mounting point of end-effector untill the gripping point centre was measured and added to the translational matrix. The end-effector is rotated about -45 degrees, it was counted into the translational matrix too.
+![image](https://github.com/soibkhon/franka_robotiq_gripper/assets/57484946/7899021d-c4c7-4a5f-9f92-c49ad9cff1e2)
+![image](https://github.com/soibkhon/franka_robotiq_gripper/assets/57484946/6e1d21f5-e202-4d67-8b75-43b149431b5a)
